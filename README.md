@@ -40,8 +40,9 @@ install.packages(c(
   "sf","terra","tiff","leaflet","leafem","mapedit","tmap",
   "dplyr","readr","raster","gstat","viridisLite"
 ))
+```
 
-# Quick start
+## Quick start
 1. Place your scanned depth map TIFF and hydrography GPKG under data/.
 2. Open 01_digitize_contours.R and set the "User settings" block (path/CRS).
 3. Run the script:
