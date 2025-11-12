@@ -1,6 +1,6 @@
 # Lake Bathymetry (R)
 
-Interactive, R-only workflow to (1) georeference a scanned contour map, (2) trace depth contours by hand, and (3) interpolate a clean depth raster/figure for a lake report. No QGIS required—the whole process runs in R with leaflet/mapedit.
+Interactive, R-only workflow to (1) georeference a scanned contour map, (2) trace depth contours by hand, and (3) interpolate a clean depth raster/figure for a lake report. The whole process runs in R with leaflet/mapedit.
 
 <p align="center">
   <img src="buchanan_depth_heatmap.png" alt="Depth heatmap example" width="600">
